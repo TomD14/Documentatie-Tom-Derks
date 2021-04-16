@@ -20,6 +20,7 @@ Sprint 1:
 
 Sprint 3:
 -Bij Diagrammen zie je een verzameling van mijn Diagrammen, dit zijn een aantal opgaven en de Diagrammen voor mijn hoofdproject. de Diagrammen voor mijn project staan vooraan.
+De belangrijkste die ik heb bijgewerkt zijn mijn eigen classen diagram (pagina 2) en de Circus Trein Flowchart (pagina 5).
 
 
 
